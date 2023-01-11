@@ -1,0 +1,23 @@
+html { 
+    font-family: 'Lora', serif;
+}   
+
+body{
+    font-family:  'Lora', serif;
+    background-color: #E7AB79;
+    font-weight: bold;
+}
+
+header,footer{
+    background-color: #4C3A51;
+    
+}
+
+a{
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+    font-family: 'Roboto', sans-serif;
+}

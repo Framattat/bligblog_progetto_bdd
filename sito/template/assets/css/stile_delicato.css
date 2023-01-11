@@ -1,0 +1,24 @@
+html { 
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Ibarra Real Nova', serif;
+    background-color: #D3CEDF;
+    font-weight: bold;
+}
+
+header,footer{
+    background-color: #748DA6;
+    
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.btn{
+    font-family: 'Roboto', sans-serif!important;
+}
